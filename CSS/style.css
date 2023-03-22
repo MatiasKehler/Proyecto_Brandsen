@@ -1,0 +1,15 @@
+h1 {
+    color: #50bd96;
+    display: block;
+    text-align: center;
+    font-size: 5rem;
+}
+
+button {
+    color: #1f6a89;
+    font-size: 3rem;
+}
+
+.centrado {
+    text-align: center;
+}
