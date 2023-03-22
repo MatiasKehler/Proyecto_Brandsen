@@ -1,15 +1,16 @@
-h1 {
-    color: #50bd96;
-    display: block;
-    text-align: center;
-    font-size: 5rem;
+/* IMPORTS */ /* FONT */
+@import url("https://fonts.googleapis.com/css2?family=Exo+2:wght@300&family=Exo:wght@100&display=swap");
+/* GENERAL */
+* {
+  margin: 0;
+  padding: 0;
 }
 
-button {
-    color: #1f6a89;
-    font-size: 3rem;
+html {
+  font-size: 62.5%;
+}
+html body {
+  font-family: "Exo 2", sans-serif;
 }
 
-.centrado {
-    text-align: center;
-}
+/*# sourceMappingURL=style.css.map */
